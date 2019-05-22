@@ -1,0 +1,13 @@
+# Declare files that will always have LF line endings on checkout.
+*.json eol=lf
+*.jpeg -text
+*.png -text
+*.ico -text
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.jsx text eol=lf
+*.svg text eol=lf 
+*.gitattributes text eol=lf
+*.gitignore text eol=lf
